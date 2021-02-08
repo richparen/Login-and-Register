@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LoginandRegister:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>LoginandRegister</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="LoginandRegister-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="LoginandRegister:war exploded" />
+    </root>
+  </artifact>
+</component>
